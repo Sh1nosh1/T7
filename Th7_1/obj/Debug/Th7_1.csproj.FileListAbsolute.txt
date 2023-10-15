@@ -1,0 +1,8 @@
+D:\ОАиП\Th7_1\bin\Debug\Th7_1.exe.config
+D:\ОАиП\Th7_1\bin\Debug\Th7_1.exe
+D:\ОАиП\Th7_1\bin\Debug\Th7_1.pdb
+D:\ОАиП\Th7_1\obj\Debug\Th7_1.csproj.AssemblyReference.cache
+D:\ОАиП\Th7_1\obj\Debug\Th7_1.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\Th7_1\obj\Debug\Th7_1.csproj.CoreCompileInputs.cache
+D:\ОАиП\Th7_1\obj\Debug\Th7_1.exe
+D:\ОАиП\Th7_1\obj\Debug\Th7_1.pdb
